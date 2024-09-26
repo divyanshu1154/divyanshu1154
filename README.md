@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @divyanshu1154
-- 🌱 I’m currently learning web development
-- 🏫 I am third year college student
+- 👋 Hi, I’m Divyanshu.
+- 🌱 I am a web developer.
+- 🏫 I am fourth year college student
 <!-- -  👀 I’m interested in ...
 - 📑 I have a knowledge of HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on ...
